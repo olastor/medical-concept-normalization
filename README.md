@@ -13,7 +13,7 @@ conda activate mcn
 
 ## Datasets
 
-The `data` folder contains code and assets to work with training and test data from various public datasets.
+The `data` folder contains code and assets to work with training and test data from various public datasets as well as custom ones.
 
 ### SMM4H (2017)
 
