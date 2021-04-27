@@ -21,4 +21,7 @@ see folder `data/smm4h`
 
 ## Models
 
-TODO
+### mcn-en-smm4h
+
+ - based on smm4h dataset
+ - see [this notebook](https://github.com/olastor/medical-concept-normalization/blob/main/PredictWithMeddraModel.ipynb) for example usage
