@@ -21,6 +21,12 @@ see folder `data/smm4h`
 
 ## Models
 
+### English
+
+#### mcn-en-smm4h
+
+see [here](https://huggingface.co/olastor/mcn-en-smm4h)
+
 ### mcn-en-smm4h
 
  - based on smm4h dataset
